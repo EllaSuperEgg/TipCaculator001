@@ -1,0 +1,18 @@
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.csprojAssemblyReference.cache
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.csproj.CoreCompileInputs.cache
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.AssemblyInfoInputs.cache
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.AssemblyInfo.cs
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\bin\Debug\netcoreapp2.0\TipCaculator001.deps.json
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\bin\Debug\netcoreapp2.0\TipCaculator001.runtimeconfig.json
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\bin\Debug\netcoreapp2.0\TipCaculator001.runtimeconfig.dev.json
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\bin\Debug\netcoreapp2.0\TipCaculator001.dll
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\bin\Debug\netcoreapp2.0\TipCaculator001.pdb
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.dll
+C:\Users\minghui.luo\Desktop\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.pdb
+D:\workspace\Programming baiduyun\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.csproj.AssemblyReference.cache
+D:\workspace\Programming baiduyun\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Programming baiduyun\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.AssemblyInfoInputs.cache
+D:\workspace\Programming baiduyun\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.AssemblyInfo.cs
+D:\workspace\Programming baiduyun\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.csproj.CoreCompileInputs.cache
+D:\workspace\Programming baiduyun\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.dll
+D:\workspace\Programming baiduyun\TipCaculator001\TipCaculator001\obj\Debug\netcoreapp2.0\TipCaculator001.pdb

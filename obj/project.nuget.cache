@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpyLPb5u3Vv1RgXIfP8uQfaD0H5Am8l02UigA9aMUR6dl9auG4XQCVSd5OEbF+p0tvwqDvh2g4SAIrFqpiaVgg==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\Programming baiduyun\\TipCaculator001\\TipCaculator001\\TipCaculator001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mingh\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\mingh\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\mingh\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\mingh\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\mingh\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\mingh\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
